@@ -5,7 +5,7 @@ class MNS:
     def __init__(self, scrapeUrl):
         self.scrapeUrl = scrapeUrl
 
-    def grabSoup(self self.scrapeUrl):
+    def memberScrape(self self.scrapeUrl):
 
     """
     grabs soup URL from config file stores in variable
