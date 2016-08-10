@@ -13,21 +13,13 @@ class PP:
 
 
 
-    def STRpayload(self):
+    def payloadSingle(selfs):
 
-    """This method will grab member names that have not posted their swing tags and the correct config file text. It will prepare a payload to be sent to the group poster
-    """
+        #this method will prepare a payload with one argument
 
-    def MUpayload(self):
+    def payloadDouble(self):
 
-    """This method will grab member names that have recently join the group as well the correct config file text for welcoming new members. It will prepare a payload to be sent to the group poster"""
-
-
-
-    def GNpayload(self):
-
-    """This method will grab the correct config file post. It will be used to prepare a payload to the group poster"""
-
+        #this method will prepare a payload with two arguments
 
 
 
