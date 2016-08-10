@@ -1,4 +1,4 @@
-class GPC:
+class CPG:
 
     def __init__(self):
 
