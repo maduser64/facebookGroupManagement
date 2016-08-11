@@ -1,9 +1,7 @@
-class CPG:
 
-    def __init__(self):
 
-        def grabConfigURL(self, urlType):
-            self.urlType = urlType
+def grabConfigURL(urlType):
+    urlType = urlType
 
             """
             goes into config file and reads the parameter requested

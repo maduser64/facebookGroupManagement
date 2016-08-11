@@ -2,8 +2,7 @@ class STDAO:
 
     def __init__(self, scrapeResult, ignoreW4w, ignoreW4m, ignoreW4couple, ignoreW4t,
                  ignoreCouple4couple, ignoreCouple4m, ignoreCouple4w, ignoreCouple4t,
-                 ignoreM4w, ignoreM4couple, ignoreM4t, ignoreT4t, ignoreT4couple, ignoreT4w,
-                 ignoreT4m):
+                 ignoreM4w, ignoreM4couple, ignoreM4t, ignoreT4t, ignoreT4couple, ignoreT4w,ignoreT4m):
         self.scrapeResult = scrapeResult
         self.ignoreW4w = ignoreW4w
         self.ignoreW4m = ignoreW4m
